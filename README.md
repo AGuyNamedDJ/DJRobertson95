@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dal-Recipe](https://github.com/DJRobertson95/Dal-Recipe-Back)
 
-- 📫 How to reach me **dalronj.robertson@gmail.com**
+- 📫 I'm currently open to job oppurtunities, here's how to reach me **dalronj.robertson@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
