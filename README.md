@@ -1,3 +1,5 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)(https://dalronj.robertson.io)
+
 <h1 align="center">Hi 👋, I'm Dalron J Robertson</h1>
 <h3 align="center">A passionate fullstack developer from Chicago</h3>
 <img align = "right" alt="Coding" width="150" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
