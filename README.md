@@ -9,9 +9,6 @@
 
 - 🖥️ I'm currently learning Java and Amazon Web Services (AWS).
 
-- <a href="https://www.codewars.com/users/DJRobertson95"> <img src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="Alt text" width="23" height ="23"> 
-  Check out my growth on [Code Wars](https://www.codewars.com/users/DJRobertson95)
-
 - 📫 I'm currently open to job oppurtunities, here's how to reach me **dalronj.robertson@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
@@ -20,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dalronjrobertson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalronjrobertson" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dalronjrobertson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalronjrobertson" height="30" width="40" /></a> <a href="https://www.codewars.com/users/DJRobertson95" target="_blank" rel="noreferrer"> <img src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="css3" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
