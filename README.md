@@ -9,11 +9,11 @@
 
 - 🖥️ I'm currently learning Java and Amazon Web Services (AWS).
 
+- Check out my growth on [Code Wars](https://www.codewars.com/users/DJRobertson95)
+
 - 📫 I'm currently open to job oppurtunities, here's how to reach me **dalronj.robertson@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
-
-- Check out my growth on [Code Wars](https://www.codewars.com/users/DJRobertson95)
 
 - ⚡ Fun fact **I love creating music & play tons of instruments.**
 
