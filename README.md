@@ -9,7 +9,7 @@
 
 - 🖥️ I'm currently learning Java and Amazon Web Services (AWS).
 
-- <a href="https://www.codewars.com/users/DJRobertson95"> <img src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="Alt text">  Check out my growth on [Code Wars](https://www.codewars.com/users/DJRobertson95)
+- <a href="https://www.codewars.com/users/DJRobertson95"> <img src="https://thecodebytes.com/wp-content/webpc-passthru.php?src=https://thecodebytes.com/wp-content/uploads/2021/10/codewars-logo-1.png&nocache=1" alt="Alt text" width="10" height ="10">  Check out my growth on [Code Wars](https://www.codewars.com/users/DJRobertson95)
 
 - 📫 I'm currently open to job oppurtunities, here's how to reach me **dalronj.robertson@gmail.com**
 
