@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
+- Check out my growth on [Code Wars](https://www.codewars.com/users/DJRobertson95)
+
 - ⚡ Fun fact **I love creating music & play tons of instruments.**
 
 <h3 align="left">Connect with me:</h3>
