@@ -7,7 +7,7 @@
 
 - 🔭 I recently finished building [Dal-Recipe Back-End](https://github.com/DJRobertson95/Dal-Recipe-Back), [Dal-Recipe Front-End](https://github.com/DJRobertson95/Dal-Recipe-Front)
 
-- 🖥️ I'm currently learning Java and Amazon Web Services (AWS).
+- 🖥️ I'm currently learning Java, Tailwind CSS, and Amazon Web Services (AWS).
 
 - 📫 I'm currently open to job oppurtunities, here's how to reach me **dalronj.robertson@gmail.com**
 
