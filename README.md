@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
-- 🚧 I'm currently building [Car Haven Back-End](https://github.com/DJRobertson95/Car-Haven-Back), [Car Haven Front-End](https://github.com/DJRobertson95/Render-Test-Deakers)
+- 🚧 I'm about to buildi something new.
 
-- 🔭 I recently finished building [Dal-Recipe Back-End](https://github.com/DJRobertson95/Dal-Recipe-Back), [Dal-Recipe Front-End](https://github.com/DJRobertson95/Dal-Recipe-Front)
+- 🔭 I recently finished building [Car Haven Back-End](https://github.com/DJRobertson95/Car-Haven-Back), [Car Haven Front-End](https://github.com/DJRobertson95/Render-Test-Deakers)
 
 - 🖥️ I'm currently learning Java, Tailwind CSS, and Amazon Web Services (AWS).
 
