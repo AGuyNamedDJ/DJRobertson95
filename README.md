@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
-- 🚧 I'm about currently building [Health Hive](https://github.com/DJRobertson95/Health-Hive-Back-End)
+- 🚧 I am currently building[Trade Titans](https://github.com/DJRobertson95/Trade-Titans-Backend)
 
-- 🔭 I recently finished building [Car Haven Back-End](https://github.com/DJRobertson95/Car-Haven-Back), [Car Haven Front-End](https://github.com/DJRobertson95/Render-Test-Deakers)
+- 🔭 I recently finished building[Health Hive](https://github.com/DJRobertson95/Health-Hive-Back-End)
 
 - 🖥️ I'm currently learning Java, Tailwind CSS, and Amazon Web Services (AWS).
 
