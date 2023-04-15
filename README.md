@@ -21,8 +21,8 @@
 <p align="left"><a href="https://linkedin.com/in/dalronjrobertson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalronjrobertson" height="30" width="40" /></a> <a href="https://www.codewars.com/users/DJRobertson95" target="_blank" rel="noreferrer"> <img align="center" src="https://media2.giphy.com/media/PST7uhCwPGhZstgMsn/giphy.gif?cid=790b76114dd439c9ec52a6c1ec271f66b54e0f6f078c624e&rid=giphy.gif&ct=s" alt="css3" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<palign="left">
+<h3 align="left">Languages:</h3>
+<p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -43,8 +43,18 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
+
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Web Development:</h3>
+<p align="left"> </p>
+
+<h3 align="left">Databases:</h3>
+<p align="left"> </p>
+
+<h3 align="left">Tools & Technologies:</h3>
+<p align="left"> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djrobertson95&show_icons=true&locale=en" alt="djrobertson95" /></p>
 
