@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Dalron J Robertson</h1>
 <h3 align="center">A passionate fullstack developer from Chicago</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
 - 🚧 I am currently building [Trade Titans](https://github.com/DJRobertson95/Trade-Titans-Backend)
 
