@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
-<h1 align="center">Hi 👋, I'm Dalron J Robertson</h1>
-<h3 align="center">A passionate fullstack developer from Chicago</h3>
+<h1 align="center">Hi 👋, I'm Dalron J Robertson!</h1>
+<h3 align="center">A passionate fullstack developer living in Chicago, IL.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 🖥️ I'm currently learning Amazon Web Services (AWS), MySQL, & Python.
 
-- 📫 I'm currently open to job oppurtunities, here's how to reach me **dalronj.robertson@gmail.com**
+- 📫 I'm currently open to job oppurtunities, here's how to reach me. **dalronj.robertson@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
+- 📄 Read about my experiences [https://www.linkedin.com/in/dalronjrobertson/](https://www.linkedin.com/in/dalronjrobertson/)
 
 - ⚡ Fun fact **I love real estate & am a Private Equity/Hedge Trader.**
 
