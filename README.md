@@ -9,7 +9,7 @@
 
 - 🔭 I recently finished building [Health Hive](https://github.com/DJRobertson95/Health-Hive-Back-End)
 
-- 🖥️ I'm currently learning Amazon Web Services (AWS), MySQL, & Python.
+- 🖥️ I'm currently learning Amazon Web Services (AWS), MySQL, PineScript, & Python.
 
 - 📫 I'm currently open to job oppurtunities, here's how to reach me. **dalronj.robertson@gmail.com**
 
