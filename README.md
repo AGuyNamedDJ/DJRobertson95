@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djroberton95&label=Profile%20views&color=0e75b6&style=flat" alt="djroberton95" /> </p>
 
-- 🚧 I am currently not building.
+- 🚧 I am currently building out my [TradingView Scripts & Strategies](https://github.com/DJRobertson95/TradingView-Scripts-1)
 
 - 🔭 I recently finished building [Health Hive](https://github.com/DJRobertson95/Health-Hive-Back-End)
 
